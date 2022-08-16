@@ -1,7 +1,5 @@
-# Configuration file (dot files)
+# Conf
 
-## Tmux
+I like this [tmux config](https://github.com/gpakosz/.tmux), but it look huge
 
-Install this repo before [link](https://github.com/gpakosz/.tmux)
-
-and add ^ more on `.tmux.conf.local`
+Then is repository is built for simple usage
